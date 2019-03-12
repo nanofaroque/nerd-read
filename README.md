@@ -9,3 +9,7 @@ All of my best readings articles for writing great software.
 ### Hexagonal Architecture
 1. https://dzone.com/articles/hexagonal-architecture-for-java
 2. https://github.com/iluwatar/java-design-patterns/tree/master/hexagonal
+
+### KAFKA
+Explanation of partitions: 
+1. http://codeflex.co/what-is-apache-kafka/
