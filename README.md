@@ -13,3 +13,6 @@ All of my best readings articles for writing great software.
 ### KAFKA
 Explanation of partitions: 
 1. http://codeflex.co/what-is-apache-kafka/
+
+### Basics Disk IO
+1. https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017
