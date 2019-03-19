@@ -1,6 +1,8 @@
 # nerd-read
 All of my best readings articles for writing great software. 
 
+### DDD
+1. http://udidahan.com/articles/
 
 ### CQRS(Command-Query)
 1. Tell, don't ask : https://pragprog.com/articles/tell-dont-ask#SHARP
