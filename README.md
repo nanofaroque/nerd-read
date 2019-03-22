@@ -18,3 +18,6 @@ Explanation of partitions:
 
 ### Basics Disk IO
 1. https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017
+
+### Java FLOW API
+1. https://community.oracle.com/docs/DOC-1006738
