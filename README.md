@@ -22,6 +22,7 @@ Explanation of partitions:
 ### Java Performance
 1. Thread Pool: https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning
 2. Performance Tuning: http://www.javaperformancetuning.com/
-
+3.https://www.logicbig.com/tutorials/core-java-tutorial/java-multi-threading/thread-pools.html
+4. Java 11: https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes.html
 ### Java FLOW API
 1. https://community.oracle.com/docs/DOC-1006738
