@@ -1,6 +1,8 @@
 # nerd-read
 All of my best readings articles for writing great software. 
 
+### DDD
+1. http://udidahan.com/articles/
 
 ### CQRS(Command-Query)
 1. Tell, don't ask : https://pragprog.com/articles/tell-dont-ask#SHARP
@@ -20,3 +22,6 @@ Explanation of partitions:
 ### Java Performance
 1. Thread Pool: https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning
 2. Performance Tuning: http://www.javaperformancetuning.com/
+
+### Java FLOW API
+1. https://community.oracle.com/docs/DOC-1006738
