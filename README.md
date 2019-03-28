@@ -16,3 +16,7 @@ Explanation of partitions:
 
 ### Basics Disk IO
 1. https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017
+
+### Java Performance
+1. Thread Pool: https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning
+2. Performance Tuning: http://www.javaperformancetuning.com/
