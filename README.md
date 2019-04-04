@@ -26,3 +26,6 @@ Explanation of partitions:
 4. Java 11: https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes.html
 ### Java FLOW API
 1. https://community.oracle.com/docs/DOC-1006738
+
+### Others
+1. Sparse Array: https://github.com/nanofaroque/nerd-read/blob/master/files/sparse_array.pdf
