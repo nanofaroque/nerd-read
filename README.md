@@ -1,5 +1,5 @@
 # nerd-read
-All of my best readings articles for writing great software. 
+All of my best readings articles for writing great software.
 
 ### DDD
 1. http://udidahan.com/articles/
@@ -13,7 +13,7 @@ All of my best readings articles for writing great software.
 2. https://github.com/iluwatar/java-design-patterns/tree/master/hexagonal
 
 ### KAFKA
-Explanation of partitions: 
+Explanation of partitions:
 1. http://codeflex.co/what-is-apache-kafka/
 
 ### Basics Disk IO
@@ -29,3 +29,6 @@ Explanation of partitions:
 
 ### Others
 1. Sparse Array: https://github.com/nanofaroque/nerd-read/blob/master/files/sparse_array.pdf
+
+### Docker
+1. How to enter into your Container Shell: https://www.thepolyglotdeveloper.com/2017/03/connecting-detached-docker-container-terminal-interaction/
