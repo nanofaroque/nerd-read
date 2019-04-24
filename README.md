@@ -32,3 +32,6 @@ Explanation of partitions:
 
 ### Docker
 1. How to enter into your Container Shell: https://www.thepolyglotdeveloper.com/2017/03/connecting-detached-docker-container-terminal-interaction/
+
+### POSTGRES query optimization
+1. Sort optimization: https://www.cybertec-postgresql.com/en/postgresql-improving-sort-performance/
