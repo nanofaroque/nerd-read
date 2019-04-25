@@ -35,3 +35,4 @@ Explanation of partitions:
 
 ### POSTGRES query optimization
 1. Sort optimization: https://www.cybertec-postgresql.com/en/postgresql-improving-sort-performance/
+2. Speeding GroupBy and JOINS: https://www.cybertec-postgresql.com/en/postgresql-speeding-up-group-by-and-joins/
