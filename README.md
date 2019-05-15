@@ -40,3 +40,6 @@ Explanation of partitions:
 
 ### Python Virtual Environment
 1. Why and How: https://realpython.com/python-virtual-environments-a-primer/
+
+### Successful GIT branching
+1. https://nvie.com/posts/a-successful-git-branching-model/
