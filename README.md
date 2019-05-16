@@ -49,3 +49,4 @@ Explanation of partitions:
 
 ### Kubernetes practice on EKS
 1. https://eksworkshop.com/introduction/
+2. ReadinessProbe and LivelinessProbe: https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-how-to-avoid-shooting-yourself-in-the-foot/
