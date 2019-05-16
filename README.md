@@ -46,3 +46,6 @@ Explanation of partitions:
 
 ### Shortcut for IntelliJ
 1. https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+### Kubernetes practice on EKS
+1. https://eksworkshop.com/introduction/
