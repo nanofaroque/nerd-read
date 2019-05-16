@@ -43,3 +43,6 @@ Explanation of partitions:
 
 ### Successful GIT branching
 1. https://nvie.com/posts/a-successful-git-branching-model/
+
+### Shortcut for IntelliJ
+1. https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
