@@ -51,3 +51,5 @@ Explanation of partitions:
 1. https://eksworkshop.com/introduction/
 2. ReadinessProbe and LivelinessProbe: https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-how-to-avoid-shooting-yourself-in-the-foot/
 3. Secret Manager to EKS cluster: https://aws.amazon.com/blogs/security/how-to-automate-replication-of-secrets-in-aws-secrets-manager-across-aws-regions/
+### AWS Training 
+1. https://www.aws.training/LearningLibrary?filters=digital%3A1&filters=classification%3A20&search=&tab=view_all
