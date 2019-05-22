@@ -53,3 +53,6 @@ Explanation of partitions:
 3. Secret Manager to EKS cluster: https://aws.amazon.com/blogs/security/how-to-automate-replication-of-secrets-in-aws-secrets-manager-across-aws-regions/
 ### AWS Training 
 1. https://www.aws.training/LearningLibrary?filters=digital%3A1&filters=classification%3A20&search=&tab=view_all
+### Build System READ
+1. http://gittup.org/tup/build_system_rules_and_algorithms.pdf
+2. https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf
