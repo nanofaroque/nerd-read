@@ -56,3 +56,6 @@ Explanation of partitions:
 ### Build System READ
 1. http://gittup.org/tup/build_system_rules_and_algorithms.pdf
 2. https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf
+
+### Highly Available Aurora Cluster
+1. https://aws.amazon.com/getting-started/tutorials/create-high-availability-database-cluster/
