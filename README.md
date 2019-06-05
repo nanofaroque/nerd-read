@@ -60,3 +60,4 @@ Explanation of partitions:
 ### Highly Available Aurora Cluster
 1. https://aws.amazon.com/getting-started/tutorials/create-high-availability-database-cluster/
 2. Handling Failover: https://aws.amazon.com/blogs/database/failover-with-amazon-aurora-postgresql/
+3. SQLAlchemy reconnect strategy: https://docs.sqlalchemy.org/en/13/core/pooling.html?highlight=reconnect#dealing-with-disconnects
