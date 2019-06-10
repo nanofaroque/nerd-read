@@ -37,6 +37,8 @@ Explanation of partitions:
 1. Sort optimization: https://www.cybertec-postgresql.com/en/postgresql-improving-sort-performance/
 2. Speeding GroupBy and JOINS: https://www.cybertec-postgresql.com/en/postgresql-speeding-up-group-by-and-joins/
 3. Finding the all the tables size: http://www.postgresqltutorial.com/postgresql-database-indexes-table-size/
+### POSTGRES nuts and bolts
+1. https://sniptools.com/databases/resize-a-column-in-a-postgresql-table-without-changing-data/
 
 ### Python Virtual Environment
 1. Why and How: https://realpython.com/python-virtual-environments-a-primer/
