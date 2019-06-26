@@ -65,3 +65,6 @@ Explanation of partitions:
 3. SQLAlchemy reconnect strategy: https://docs.sqlalchemy.org/en/13/core/pooling.html?highlight=reconnect#dealing-with-disconnects
 4. Fail Over handling Aurora: https://stackoverflow.com/questions/52629074/jdbc-connection-pool-test-query-select-1-does-not-catch-aws-rds-writer-reader/52636788#52636788
 5. https://stackoverflow.com/questions/53287215/retry-failed-sqlalchemy-queries
+
+### What happened when you do an index??
+1. https://www.javatpoint.com/b-plus-tree
