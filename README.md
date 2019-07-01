@@ -68,3 +68,6 @@ Explanation of partitions:
 
 ### What happened when you do an index??
 1. https://www.javatpoint.com/b-plus-tree
+
+### CASSANDRA 
+1. https://shermandigital.com/blog/designing-a-cassandra-data-model/
