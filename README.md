@@ -74,4 +74,6 @@ Explanation of partitions:
 
 ### Realtime data streaming
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+* https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
+* https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
