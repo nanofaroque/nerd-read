@@ -77,3 +77,7 @@ Explanation of partitions:
 * https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 * https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
+### Learning AWS
+* Understanding the policy: https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
+* Lambda and S3: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-execution-role-s3-bucket/
+
