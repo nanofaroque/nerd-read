@@ -83,3 +83,4 @@ Explanation of partitions:
 
 ### Cassandra
 * How cassandra file system works? ->https://saumitra.me/blog/how-cassandra-stores-data-on-filesystem/
+* Write/Read on Cassandra: https://teddyma.gitbooks.io/learncassandra/content/client/write_requests.html
