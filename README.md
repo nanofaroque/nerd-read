@@ -91,3 +91,4 @@ Explanation of partitions:
 
 ### Automating Infrastructure 
 * https://dzone.com/articles/immutable-infrastructure-cicd-using-hashicorp-terr
+* Jenkins scripted pipeline: https://www.blazemeter.com/blog/how-to-use-the-jenkins-scripted-pipeline/
