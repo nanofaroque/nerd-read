@@ -75,6 +75,7 @@ Explanation of partitions:
 
 ### CASSANDRA 
 * https://shermandigital.com/blog/designing-a-cassandra-data-model/
+* Consistent hashing: https://www.ably.io/blog/implementing-efficient-consistent-hashing
 
 ### Realtime data streaming
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
