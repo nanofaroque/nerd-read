@@ -93,3 +93,6 @@ Explanation of partitions:
 ### Automating Infrastructure 
 * https://dzone.com/articles/immutable-infrastructure-cicd-using-hashicorp-terr
 * Jenkins scripted pipeline: https://www.blazemeter.com/blog/how-to-use-the-jenkins-scripted-pipeline/
+
+### Data pipeline ETL
+* http://weekly.sfdata.io/issues/sf-data-weekly-14-amazon-redshift-pipelines-imgur-s-geodata-netflix-media-db-streaming-at-disney-154933
