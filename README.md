@@ -85,6 +85,11 @@ Explanation of partitions:
 ### Learning AWS
 * Understanding the policy: https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
 * Lambda and S3: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-execution-role-s3-bucket/
+* Understanding the AWS policy(best explanation):
+  
+  a. https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
+  
+  b. https://www.chrisfarris.com/bucket-policy-examples/
 
 ### Cassandra
 * How cassandra file system works? ->https://saumitra.me/blog/how-cassandra-stores-data-on-filesystem/
