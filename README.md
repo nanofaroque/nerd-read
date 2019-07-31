@@ -91,6 +91,7 @@ Explanation of partitions:
   
   b. https://www.chrisfarris.com/bucket-policy-examples/
 * AWS denien issue on S3 and Lambda function: https://aws.amazon.com/premiumsupport/knowledge-center/access-denied-lambda-s3-bucket/
+* More on Bucket Policy: https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
 
 ### Cassandra
 * How cassandra file system works? ->https://saumitra.me/blog/how-cassandra-stores-data-on-filesystem/
