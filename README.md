@@ -90,6 +90,7 @@ Explanation of partitions:
   a. https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
   
   b. https://www.chrisfarris.com/bucket-policy-examples/
+* AWS denien issue on S3 and Lambda function: https://aws.amazon.com/premiumsupport/knowledge-center/access-denied-lambda-s3-bucket/
 
 ### Cassandra
 * How cassandra file system works? ->https://saumitra.me/blog/how-cassandra-stores-data-on-filesystem/
