@@ -99,6 +99,7 @@ Explanation of partitions:
 ### Cassandra
 * How cassandra file system works? ->https://saumitra.me/blog/how-cassandra-stores-data-on-filesystem/
 * Write/Read on Cassandra: https://teddyma.gitbooks.io/learncassandra/content/client/write_requests.html
+* LSM Tree: https://medium.com/databasss/on-disk-io-part-3-lsm-trees-8b2da218496f
 
 ### Automating Infrastructure 
 * https://dzone.com/articles/immutable-infrastructure-cicd-using-hashicorp-terr
