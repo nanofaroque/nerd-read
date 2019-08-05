@@ -47,6 +47,7 @@ Explanation of partitions:
 
 ### Successful GIT branching
 * https://nvie.com/posts/a-successful-git-branching-model/
+* Best Practices: https://medium.com/@passsy/use-different-build-numbers-for-every-build-automatically-using-a-gradle-script-35577cd31b19
 
 ### Shortcut for IntelliJ
 * https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
