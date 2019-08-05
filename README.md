@@ -1,4 +1,4 @@
-# nerd-read
+# Nerd Reads to be "The Software Developer" with best practices
 All of my best readings articles for writing great software.
 
 ### DDD
