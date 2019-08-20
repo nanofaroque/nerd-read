@@ -1,6 +1,7 @@
 # Nerd Reads to be "The Software Developer" with best practices
 All of my best readings articles for writing great software.
-
+### Java Concurrency
+* Number of thread with thread pool: https://jobs.zalando.com/tech/blog/how-to-set-an-ideal-thread-pool-size/?gh_src=4n3gxh1
 ### DDD
 * http://udidahan.com/articles/
 
