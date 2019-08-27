@@ -6,3 +6,5 @@
 * https://aws.amazon.com/blogs/big-data/how-annalect-built-an-event-log-data-analytics-solution-using-amazon-redshift/
 
 * https://aws.amazon.com/blogs/big-data/analyzing-apache-parquet-optimized-data-using-amazon-kinesis-data-firehose-amazon-athena-and-amazon-redshift/
+
+* https://aws.amazon.com/blogs/big-data/how-i-built-a-data-warehouse-using-amazon-redshift-and-aws-services-in-record-time/
