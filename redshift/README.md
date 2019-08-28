@@ -12,3 +12,4 @@
 ### Some key articles on Redshift
 
 * http://wayne-yuen.blogspot.com/2017/03/aws-redshift-quick-overview.html
+*https://s3-eu-west-1.amazonaws.com/cdn.jefclaes.be/amazon-redshift-fundamentals/aws-redshift-fundamentals.html#introduction
