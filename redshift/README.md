@@ -8,3 +8,7 @@
 * https://aws.amazon.com/blogs/big-data/analyzing-apache-parquet-optimized-data-using-amazon-kinesis-data-firehose-amazon-athena-and-amazon-redshift/
 
 * https://aws.amazon.com/blogs/big-data/how-i-built-a-data-warehouse-using-amazon-redshift-and-aws-services-in-record-time/
+
+### Some key articles on Redshift
+
+* http://wayne-yuen.blogspot.com/2017/03/aws-redshift-quick-overview.html
