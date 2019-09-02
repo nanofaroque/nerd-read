@@ -1,3 +1,4 @@
+
 # Nerd Reads to be "The Software Developer" with best practices
 All of my best readings articles for writing great software.
 ### Java Concurrency
@@ -94,6 +95,7 @@ Explanation of partitions:
   a. https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
   
   b. https://www.chrisfarris.com/bucket-policy-examples/
+  C.https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html 
 * AWS denien issue on S3 and Lambda function: https://aws.amazon.com/premiumsupport/knowledge-center/access-denied-lambda-s3-bucket/
 * More on Bucket Policy: https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
 
