@@ -13,3 +13,15 @@
 
 * http://wayne-yuen.blogspot.com/2017/03/aws-redshift-quick-overview.html
 *https://s3-eu-west-1.amazonaws.com/cdn.jefclaes.be/amazon-redshift-fundamentals/aws-redshift-fundamentals.html#introduction
+
+### Others
+ETL VS ELT:
+
+1. https://d1.awsstatic.com/Marketplace/scenarios/bi/Q42017/BIA22-Data-Transformation-Cloud-Data-Warehouses-Scenario-Brief.pdf
+2. https://www.ironsidegroup.com/2015/03/01/etl-vs-elt-whats-the-big-difference/
+
+Benefits of ELT over ETL:
+https://blog.panoply.io/etl-vs-elt-the-difference-is-in-the-how
+
+Moving data to S3 and REDShift
+https://hevodata.com/blog/postgresql-to-redshift-etl/
