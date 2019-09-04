@@ -1,3 +1,4 @@
+
 # Nerd Reads to be "The Software Developer" with best practices
 All of my best readings articles for writing great software.
 ### Java Concurrency
@@ -87,13 +88,21 @@ Explanation of partitions:
 * https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
 ### Learning AWS
-* Understanding the policy: https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
+* Understanding the policy: 
+
+  a. https://aws.amazon.com/blogs/security/back-to-school-understanding-the-iam-policy-grammar/
+  
+  b. https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html 
+  
+  c. https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html
+
 * Lambda and S3: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-execution-role-s3-bucket/
 * Understanding the AWS policy(best explanation):
-  
+ 
   a. https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
   
   b. https://www.chrisfarris.com/bucket-policy-examples/
+  
 * AWS denien issue on S3 and Lambda function: https://aws.amazon.com/premiumsupport/knowledge-center/access-denied-lambda-s3-bucket/
 * More on Bucket Policy: https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
 
