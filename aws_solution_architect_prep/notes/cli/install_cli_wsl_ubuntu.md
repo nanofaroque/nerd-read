@@ -37,15 +37,29 @@ Verify installation:
 ```sh
 $ aws s3 ls
 ```
-The above should list any / all s3 bucket names if the CLI tool installed successfully; otherwise, the following messages may display:
+The above should list all s3 bucket names if the CLI tool installed successfully; otherwise, the following messages may display:
 "access denied" 
 "invalid key"
 The messages above may necessitate re-creation of the keys previously generated for providing access via the CLI
 ### Upgrade to latest version of CLI
-* Upgrading to the latest version of the AWS CLI
+Check for outdated packages:
+```sh
+
+```
+pip3 list -o
+check which packages are "outdated'
 ### Add the AWS CLI Executable to Your Command Line Path
+```sh
+
+```
 * Add the AWS CLI Executable to Your Command Line Path
 ### Installing Python on Linux
+```sh
+
+```
 * Installing Python on Linux
 ### Install the AWS CLI on Amazon Linux
+```sh
+
+```
 * Install the AWS CLI on Amazon Linux
