@@ -76,7 +76,9 @@ b. Determine where the output to the CLI executable points:
 $ ls -al /home/blohmeier/anaconda3/bin/python3
 $ whereis python3
 ```
-c. if the output revealed is different from the folder added to your path when installing pip (see step 1c), be sure to add this folder revealed in the output to your path as well; e.g.:
+c. if the output revealed is different from the folder added to your path when installing pip (see step 1c), be sure to add this folder revealed in the output to your path as well.
+For example, the output below reveals a folder different from that added in step 1c:
 ```sh
-$ ls -al
+$ whereis python3
+python3: /usr/bin/python3 
 ```
