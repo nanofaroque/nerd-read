@@ -31,10 +31,10 @@ d. Ensure the folder containing pip is part of your PATH variable:
 ```sh
 $ ls -a ~
 ```
-e. If the folder containing pip is not part of your PATH variable, add it to your profile script:
-Add an export command at end of profile script similar to the following:
+e. If the folder containing pip is not part of your PATH variable, add it to your profile script (below example is for bash shell):
 ```sh
-$ export PATH=~/.local/bin:$PATH
+$ nano .profile
+export PATH=~/.local/bin:$PATH
 ```
 f. Finally, after adding the export command, reload your profile:
 ```sh
@@ -71,14 +71,26 @@ a. Verify which folder was used by pip to install the CLI:
 ```sh
 $ which aws
 ```
-b. Determine where the output to the CLI executable points:
+b. Determine where the output to the CLI executable points by running the ls -al command on the path to the folder where the executable is stored:
 ```sh
 $ ls -al /home/blohmeier/anaconda3/bin/python3
-$ whereis python3
 ```
-c. if the output revealed is different from the folder added to your path when installing pip (see step 1c), be sure to add this folder revealed in the output to your path as well.
-For example, the output below reveals a folder different from that added in step 1c:
+c. if the output revealed is different from the folder added to your path when installing pip (see step 1e), be sure to add this folder revealed in the output to your path as well.
+For example, the steps below result in the output following the "->" below (i.e., an output location for the python3.7 executable that is stored at /usr/bin/python3):
 ```sh
-$ whereis python3
-python3: /usr/bin/python3 
+$ which python3
+/home/blohmeier/anaconda3/bin/python3
+$  ls -al /home/blohmeier/anaconda3/bin/python3
+/home/blohmeier/anaconda3/bin/python3 -> python3.7
+$ whereis python3.7
+python3: /usr/bin/python3 /usr/bin/python3.6 /usr/bin/python3.6m /usr/lib/python3 /usr/lib/python3.6 /usr/lib/python3.7 /etc/python3 /etc/python3.6 /usr/local/lib/python3.6 /usr/share/python3 /usr/share/man/man1/python3.1.gz
+```
+The output from above points at a folder different from that added to the path in step 1e which was:
+```sh
+~/.local/bin 
+```
+Thus we need to add this most recent location pointed to by the output to our profile as well:
+```sh
+$ nano .profile
+export PATH=/usr/bin:$PATH
 ```
