@@ -8,10 +8,10 @@
 > Note: though a virtual environment was used here,
 > this is not necessary.
 ## Overview
-* 1. Install pip
-* 2. Install the AWS CLI tool using pip
-* 3. Upgrade to latest version of the AWS CLI
-* 4. Add the AWS CLI Executable to Your Command Line Path
+* Install pip
+* Install the AWS CLI tool using pip
+* Upgrade to latest version of the AWS CLI
+* Add the AWS CLI Executable to Your Command Line Path
 ### 1. Install pip
 a. Check for whether pip is installed:
 ```sh
