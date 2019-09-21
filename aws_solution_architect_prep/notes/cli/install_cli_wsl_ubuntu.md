@@ -1,8 +1,51 @@
-# Task: install aws cli to windows subsystem for linux (WSL) running Ubuntu 18.04
+## A "How to" - installing the AWS CLI tool to Ubuntu on WSL
+> The following assists in streamlining the
+> installation of the Amazon Web Services (AWS)
+> command line interface (CLI) tool as much  
+> as possible. The CLI tool is installed here to
+> a desktop running Windows Subsystem for Linux (WSL)
+> which in turn runs Ubuntu 18.04.
+> Note: though a virtual environment was used here,
+> this is not necessary.
 ## Overview
 * Install pip
 * Install the AWS CLI with pip
 * Upgrading to the latest version of the AWS CLI
 * Add the AWS CLI Executable to Your Command Line Path
 * Installing Python on Linux
+* Install the AWS CLI on Amazon Linux
+### Install pip, if necessary
+First, check for pip and for pip version:
+```sh
+$ pip --version
+```
+Proceed with steps to install pip as needed:
+```sh
+$ sudo apt-get update
+$ sudo apt-get install python3-distutils
+$ curl -O https://bootstrap.pypa.io/get-pip.py
+```
+When the --user flag is included with the command below, the script installs pip to the path ~/.local/bin.
+```sh
+$ python3 get-pip.py --user
+```
+### Install the CLI tool using pip
+```sh
+$ sudo apt-get install aws
+```
+Verify installation:
+```sh
+$ aws s3 ls
+```
+The above should list any / all s3 bucket names if the CLI tool installed successfully; otherwise, the following messages may display:
+"access denied" 
+"invalid key"
+The messages above may necessitate re-creation of the keys previously generated for providing access via the CLI
+### Upgrade to latest version of CLI
+* Upgrading to the latest version of the AWS CLI
+### Add the AWS CLI Executable to Your Command Line Path
+* Add the AWS CLI Executable to Your Command Line Path
+### Installing Python on Linux
+* Installing Python on Linux
+### Install the AWS CLI on Amazon Linux
 * Install the AWS CLI on Amazon Linux
