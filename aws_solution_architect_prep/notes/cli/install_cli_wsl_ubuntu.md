@@ -36,11 +36,11 @@ Add an export command at end of profile script similar to the following:
 ```sh
 $ export PATH=~/.local/bin:$PATH
 ```
-Finally, after adding the export command, reload your profile:
+f. Finally, after adding the export command, reload your profile:
 ```sh
 $ source ~/.profile
 ```
-Confirm pip was correctly installed:
+g. Confirm pip was correctly installed:
 ```sh
 $ pip3 --version
 ```
