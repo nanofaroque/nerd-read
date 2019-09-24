@@ -19,6 +19,7 @@ A Network Load Balancer functions at the fourth layer of the Open Systems Interc
 * A Spot Instance is an unused EC2 instance that is available for less than the On-Demand price. Because Spot Instances enable you to request unused EC2 instances at steep discounts, you can lower your Amazon EC2 costs significantly. The hourly price for a Spot Instance is called a Spot price
 
 * Spot instances can be interrupted.
+* Default price is on-demand price, you have bid the highest price to get spot instance
 
 ### schedule instances
 Scheduled instance is a good choice if not interruption is not allowed for a scheduled task.
