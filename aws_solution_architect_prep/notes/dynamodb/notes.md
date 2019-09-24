@@ -1,3 +1,5 @@
+## Dynamobd
+
 * An item is a collection of attributes inside a table. It can not be
 bigger than 400KB
 
@@ -5,9 +7,10 @@ bigger than 400KB
 * Dynamodb stored data into three replicas in independent AZ
 * can survive failure of a AZ
 
-Dynamodb has two capacity modes:
+* Dynamodb has two capacity modes:
 --- Provisioned throughput
 --- on-demand(automatically scales and bills per request)
+
 Introduction
 In this guide, we are going to learn how to provision capacity for DynamoDB.
 
@@ -16,7 +19,7 @@ By setting read and write capacity, we can tell Amazon Web Services how much har
 Provisioned throughput gives us the ability to change read and write performance capacity during table creation or even as an update any time after.
 
 
-SETUP
+### SETUP
 We need to understand the difference between eventually consistent and strongly consistent data:
 
 •Eventually consistent: A read request immediately after a write operation might not show the latest change but costs less in terms of capacity.
@@ -114,7 +117,7 @@ Read capacity uses the same read/write capacity from parent table.
 
 
 
-WRITE
+### WRITE
 
 When you add, update, or delete an item in a table, the local secondary index also consumes write capacity units. You’re not only using write capacity for the table update but also for the local secondary index. The cost of writing an item to a local secondary index depends on a few things:
 
