@@ -12,3 +12,7 @@ you can only suspend it.
 
 ### Scaling S3
 CRR(Cross Regional Replication) is one way only between one source and one destination bucket, so this is not a workable solution.
+
+
+### Good FAQ
+* https://www.amazonaws.cn/en/s3/faqs/
