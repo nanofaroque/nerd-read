@@ -12,3 +12,12 @@ Application Loadbalancer:
 
 Network Loadbalancer:
 A Network Load Balancer functions at the fourth layer of the Open Systems Interconnection (OSI) model. It can handle millions of requests per second. After the load balancer receives a connection request, it selects a target from the target group for the default rule. It attempts to open a TCP connection to the selected target on the port specified in the listener configuration.
+
+
+### Spot instances
+* A Spot Instance is an unused EC2 instance that is available for less than the On-Demand price. Because Spot Instances enable you to request unused EC2 instances at steep discounts, you can lower your Amazon EC2 costs significantly. The hourly price for a Spot Instance is called a Spot price
+
+* Spot instances can be interrupted.
+
+### schedule instances
+Scheduled instance is a good choice if not interruption is not allowed for a scheduled task.
