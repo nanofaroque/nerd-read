@@ -1,3 +1,7 @@
+# EFS
+EFS can be accessed by all EC2 instances in a VPC
+
+![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/efs/efs.png)
 * Amazon Elastic File System (Amazon EFS) provides a simple, scalable,
 fully managed elastic NFS file system for use with AWS Cloud services and
 on-premises resources.
@@ -32,3 +36,6 @@ database backups, and container storage.
 Availability Zones (AZs) for high availability and durability. Amazon EC2
 instances can access your file system across AZs, regions, and VPCs, while
 on-premises servers can access using AWS Direct Connect or AWS VPN.
+
+## Lifecycle information
+![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/efs/efs_benefits.png)
