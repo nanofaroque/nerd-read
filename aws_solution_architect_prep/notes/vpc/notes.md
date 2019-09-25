@@ -12,5 +12,7 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 * https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
 **NACL(Network access control list)-> you have to create your own inbound and outbound rules explicitly **
+
 **Security Group-> you have to create your own inbound policy only and outbound is automatically created **
+
 **Each VPC comes with one automatic route table **
