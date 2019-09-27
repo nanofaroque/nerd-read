@@ -16,3 +16,7 @@ CRR(Cross Regional Replication) is one way only between one source and one desti
 
 ### Good FAQ
 * https://www.amazonaws.cn/en/s3/faqs/
+
+### S3 performance improvement
+
+* https://aws.amazon.com/blogs/aws/amazon-s3-performance-tips-tricks-seattle-hiring-event/

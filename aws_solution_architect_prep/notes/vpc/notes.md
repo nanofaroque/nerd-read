@@ -11,8 +11,21 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 
 * https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
-* NACL(Network access control list)-> you have to create your own inbound and outbound rules explicitly 
+* NACL(Network access control list)-> you have to create your own inbound and outbound rules explicitly
 
-* Security Group-> you have to create your own inbound policy only and outbound is automatically created 
+* Security Group-> you have to create your own inbound policy only and outbound is automatically created
 
 * Each VPC comes with one automatic route table
+
+* VPC has a virtual router called vpc router. It is highly available and scalable in whatever scale
+* Internet Gateway is highly scalable and available by design
+
+## Bastion Host/ Jumbo Box
+* A host sits in the perimeter of VPC
+* Bastion host act as a trusted authority for the VPC
+
+
+## NAT Network address translation
+* Static NAT -> a private IP mapped to public IP (Like an internet gateway does)
+  * When the IGW receives a packet from a resource with a public IP, it will adjust the packets. It replaces the private IP with the associated public IP address. This process is known as SNAT.
+* Dynamic NAT -> group of private IP mapped to a public
