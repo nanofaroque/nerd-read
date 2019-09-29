@@ -16,3 +16,7 @@ synchronous standby replica in a different Availability Zone. The primary DB
 instance is synchronously replicated across Availability Zones to a standby
 replica to provide data redundancy, eliminate I/O freezes, and minimize latency
 spikes during system backups
+
+
+## Aurora Serverless
+* https://aws.amazon.com/blogs/aws/aurora-serverless-ga/

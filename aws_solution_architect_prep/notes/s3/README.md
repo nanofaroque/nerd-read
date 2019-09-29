@@ -32,3 +32,6 @@ including the following:
 * You transfer gigabytes to terabytes of data on a regular basis across continents.
 * You are unable to utilize all of your available bandwidth over the Internet
 when uploading to Amazon S3.
+
+### Replication
+* To support replication, versioning on the both bucket has to be enabled 

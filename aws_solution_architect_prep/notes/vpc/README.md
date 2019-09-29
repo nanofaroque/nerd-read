@@ -29,3 +29,8 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 * Static NAT -> a private IP mapped to public IP (Like an internet gateway does)
   * When the IGW receives a packet from a resource with a public IP, it will adjust the packets. It replaces the private IP with the associated public IP address. This process is known as SNAT.
 * Dynamic NAT -> group of private IP mapped to a public
+
+
+### VPC flow logs
+* VPC flow logs can show IP traffic and metadata
+* But to show the content, you need IP snipper 
