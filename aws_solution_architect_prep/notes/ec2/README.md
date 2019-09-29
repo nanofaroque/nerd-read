@@ -32,3 +32,7 @@ When you launch a new EC2 instance, the EC2 service attempts to place the instan
 * Partition – spreads your instances across logical partitions such that groups of instances in one partition do not share the underlying hardware with groups of instances in different partitions. This strategy is typically used by large distributed and replicated workloads, such as Hadoop, Cassandra, and Kafka.
 
 * Spread – strictly places a small group of instances across distinct underlying hardware to reduce correlated failures.
+
+### EBS volume
+* EBS store snapshots on S3. S3 is global by nature, so you can not copy a snapshot
+from one AZ to another AZ
