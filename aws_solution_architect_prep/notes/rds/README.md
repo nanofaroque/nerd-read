@@ -1,7 +1,8 @@
 # Amazon RDS
-
+How RDS works?
+![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/rds/Screen%20Shot%202019-09-22%20at%2011.16.55%20AM.png)
 ## Failover scenario
-
+![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/rds/Screen%20Shot%202019-09-22%20at%2011.32.13%20AM.png)
 ### When failover happen?
 * An Availability Zone outage
 * The primary DB instance fails
@@ -11,7 +12,7 @@
 
 ### How to overcome failover?
 * In a Multi-AZ deployment, Amazon RDS automatically provisions and maintains a
-synchronous standby replica in a different Availability Zone. The primary DB 
+synchronous standby replica in a different Availability Zone. The primary DB
 instance is synchronously replicated across Availability Zones to a standby
 replica to provide data redundancy, eliminate I/O freezes, and minimize latency
 spikes during system backups
