@@ -36,3 +36,12 @@ When you launch a new EC2 instance, the EC2 service attempts to place the instan
 ### EBS volume
 * EBS store snapshots on S3. S3 is global by nature, so you can not copy a snapshot
 from one AZ to another AZ
+
+### AutoScaling
+
+* Here is the autoscaling lifecycle hooks
+![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/ec2/auto_scaling_lifecycles.png)
+
+* If you suspend AddToLoadBalancer, Auto Scaling launches the instances but does not add them to the load balancer or target group. If you resume the AddToLoadBalancer process, Auto Scaling resumes adding instances to the load balancer or target group when they are launched. However, Auto Scaling does not add the instances that were launched while this process was suspended. You must register those instances manually.
+
+* if any health check from EC2 or ELB or one of multiple ELB, ec2 should be replaced.
