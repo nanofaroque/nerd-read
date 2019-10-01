@@ -34,3 +34,6 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 ### VPC flow logs
 * VPC flow logs can show IP traffic and metadata
 * But to show the content, you need IP snipper 
+
+### NAT Gateway
+* You must also specify an Elastic IP address to associate with the NAT gateway when you create it. The Elastic IP address cannot be changed once you associate it with the NAT Gateway. After you've created a NAT gateway, you can not change it. 
