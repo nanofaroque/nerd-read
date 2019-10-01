@@ -1,7 +1,7 @@
 #VPC
 
 ## VPC peering
-
+* You can not create a VPC peering with overlapping IPV4 CIDR block
 
 ## Networking
 Layer 3-> the Network layer, allows/denies traffic based on IPs and ranges.
