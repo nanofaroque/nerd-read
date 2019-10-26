@@ -43,6 +43,7 @@ Explanation of partitions:
 
 ### POSTGRES nuts and bolts
 * https://sniptools.com/databases/resize-a-column-in-a-postgresql-table-without-changing-data/
+* Pros and Cons of postgres connection pool: http://highscalability.com/blog/2019/10/18/postgresql-connection-pooling-part-1-pros-cons.html
 
 ### Python Virtual Environment
 * Why and How: https://realpython.com/python-virtual-environments-a-primer/
