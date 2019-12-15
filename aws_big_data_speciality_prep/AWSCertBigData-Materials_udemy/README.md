@@ -11,4 +11,9 @@ Kinesis Stream:
 1000 write/second
 2MB read/shard
 It can be improved by using enhancing
+
+### SQS 
+add image sqs
+add image sqs fifo
+
  
