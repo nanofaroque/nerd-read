@@ -14,3 +14,8 @@
 * Etags can ensure integrity of files
     * For simple files(less than 5GB), it is the md5 hash
     * For multi-part uploads, it is more complicated
+    
+    * As of july 17th 2018, we can scale up to 3500 RPS for PUT and 5500 RPS for GET
+    for EACH PREFIX. 
+    * >5GB always use multipart
+    
