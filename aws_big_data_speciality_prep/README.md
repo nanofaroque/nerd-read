@@ -19,3 +19,5 @@
     for EACH PREFIX. 
     * >5GB always use multipart
     
+### REDSHIFT
+![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_slice.png)
