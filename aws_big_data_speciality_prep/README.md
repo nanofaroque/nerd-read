@@ -21,3 +21,5 @@
     
 ### REDSHIFT
 ![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_slice.png)
+
+![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_distribution.png)
