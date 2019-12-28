@@ -23,3 +23,5 @@
 ![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_slice.png)
 
 ![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_distribution.png)
+
+* It is better to split the files for uploading by using COPY command. You dont have to split equal to the number of node but you can split more since each slice can run parallel to process the query(insert or read)
