@@ -25,3 +25,7 @@
 ![image](https://github.com/nanofaroque/nerd-read/blob/master/aws_big_data_speciality_prep/imges/redshift_distribution.png)
 
 * It is better to split the files for uploading by using COPY command. You dont have to split equal to the number of node but you can split more since each slice can run parallel to process the query(insert or read)
+
+### Glacier
+* Vault Lock allows you to lock your vault with a variety of compliance controls that are designed to support such 
+long-term records retention. You can now create a Vault Lock policy on a vault, and after it is locked, the policy cannot be overwritten or deleted.
