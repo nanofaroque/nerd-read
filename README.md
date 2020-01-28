@@ -120,3 +120,6 @@ Explanation of partitions:
 ### Data pipeline ETL
 * http://weekly.sfdata.io/issues/sf-data-weekly-14-amazon-redshift-pipelines-imgur-s-geodata-netflix-media-db-streaming-at-disney-154933
 * SQL subqueries: https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php
+
+### Amazing Distributed System papers
+* https://dancres.github.io/Pages/
