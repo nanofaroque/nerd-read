@@ -15,3 +15,6 @@ https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e
 
 # CSS tricks
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+# Running Nodejs Lambda function in local environment
+* https://aws.amazon.com/blogs/developer/announcing-aws-toolkit-for-visual-studio-code/
