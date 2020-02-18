@@ -123,3 +123,6 @@ Explanation of partitions:
 
 ### Amazing Distributed System papers
 * https://dancres.github.io/Pages/
+
+### Atomic operations in dynamodb
+* https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-transactions/
