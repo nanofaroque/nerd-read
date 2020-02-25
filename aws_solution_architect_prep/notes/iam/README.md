@@ -1,6 +1,8 @@
 ### Understanding IAM role
 
-* Cross account access in IAM role
+* Cross account access in IAM role.
+
+We are trying to allow user David from account A to access s3 bucket in account B.
 
  // add the photo
 
@@ -10,3 +12,8 @@
 
  * What is resource?
 - This defines what resources above IAM role can access or do operation defined by the action section.  
+
+As we have created an am role called s3-role in the account B. Now we have to add this to the David permission, so that he can assume the role called s3-role. How?
+- we can take the ARN of the s3-role and added into the resource section of David like below:
+
+//add the image
