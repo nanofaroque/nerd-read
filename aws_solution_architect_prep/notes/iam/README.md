@@ -4,7 +4,7 @@
 
 We are trying to allow user David from account A to access s3 bucket in account B.
 
- // add the photo
+ ![Alt]("https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/iam/s3-role.png") 
 
  * What is principle?
  - Principle defines who or what can assume this role. In the example above,
