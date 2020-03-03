@@ -17,3 +17,6 @@ As we have created an am role called s3-role in the account B. Now we have to ad
 - we can take the ARN of the s3-role and added into the resource section of David like below:
 
 ![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/iam/david.png)
+
+* How to Restrict Amazon S3 Bucket Access to a Specific IAM Role
+https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/
