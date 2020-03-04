@@ -21,3 +21,6 @@ As we have created an am role called s3-role in the account B. Now we have to ad
 
 * How to Restrict Amazon S3 Bucket Access to a Specific IAM Role
 https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/
+
+* IAM example with details 
+http://docs.netapp.com/sgws-112/index.jsp?topic=%2Fcom.netapp.doc.sg-s3%2FGUID-D15FCD21-1869-4546-9234-56227206AB99.html
