@@ -7,11 +7,12 @@ We are trying to allow user David from account A to access s3 bucket in account 
  ![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/iam/s3-role.png)
 
  * What is principle?
- - Principle defines who or what can assume this role. In the example above,
+ 
+     Principle defines who or what can assume this role. In the example above,
  user david with account ID: 111111111 can assume this role to access S3 Get or List operations.
 
  * What is resource?
-- This defines what resources above IAM role can access or do operation defined by the action section.  
+   This defines what resources above IAM role can access or do operation defined by the action section.  
 
 As we have created an am role called s3-role in the account B. Now we have to add this to the David permission, so that he can assume the role called s3-role. How?
 - we can take the ARN of the s3-role and added into the resource section of David like below:
