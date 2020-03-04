@@ -24,3 +24,6 @@ https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to
 
 * IAM example with details 
 http://docs.netapp.com/sgws-112/index.jsp?topic=%2Fcom.netapp.doc.sg-s3%2FGUID-D15FCD21-1869-4546-9234-56227206AB99.html
+
+* Best article for cross account assume role
+https://aws.amazon.com/blogs/aws/delegating-api-access-to-aws-services-using-iam-roles/
