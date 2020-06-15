@@ -16,3 +16,4 @@ You can choose between AMIs backed by Amazon EC2 instance store and AMIs backed 
 
 ### Attaching EBS volume and mount a directory
 * Storing data with EBS persistently: https://angus.readthedocs.io/en/2014/amazon/setting-up-an-ebs-volume.html
+* Root Volume size in AWS batch: https://stackoverflow.com/questions/52768937/how-to-define-root-volume-size-in-aws-batch
