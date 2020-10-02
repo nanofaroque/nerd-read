@@ -27,3 +27,6 @@ http://docs.netapp.com/sgws-112/index.jsp?topic=%2Fcom.netapp.doc.sg-s3%2FGUID-D
 
 * Best article for cross account assume role
 https://aws.amazon.com/blogs/aws/delegating-api-access-to-aws-services-using-iam-roles/
+
+* AWS org and IAM policies
+https://www.youtube.com/watch?v=KST4x2LqUIw&ab_channel=AmazonWebServices
