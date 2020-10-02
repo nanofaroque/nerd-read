@@ -30,3 +30,4 @@ https://aws.amazon.com/blogs/aws/delegating-api-access-to-aws-services-using-iam
 
 * AWS org and IAM policies
 https://www.youtube.com/watch?v=KST4x2LqUIw&ab_channel=AmazonWebServices
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Organizations.html#createAccount-property
