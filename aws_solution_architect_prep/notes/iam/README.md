@@ -31,3 +31,17 @@ https://aws.amazon.com/blogs/aws/delegating-api-access-to-aws-services-using-iam
 * AWS org and IAM policies
 https://www.youtube.com/watch?v=KST4x2LqUIw&ab_channel=AmazonWebServices
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Organizations.html#createAccount-property
+
+* How to allow a S3 bucket to publish event into SNS into CDK
+Add this policy inot S3 bucket
+const policy=new PolicyStatement({
+            effect: Effect.ALLOW,
+            principals:[new iam.ServicePrincipal('s3.amazonaws.com')],
+            actions:['sns:Publish'],
+            conditions:{
+                'ArnLike':{
+                    'aws:SourceArn':'arn:aws:s3:::etlbucketfortest'
+                }
+            },
+            resources: [topic.topicArn]
+        })
