@@ -45,3 +45,8 @@ const policy=new PolicyStatement({
             },
             resources: [topic.topicArn]
         })
+
+
+this statement means that 
+-- S3 can publish data
+-- and specific bucket
