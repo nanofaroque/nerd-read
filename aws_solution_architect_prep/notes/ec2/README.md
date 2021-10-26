@@ -52,3 +52,13 @@ from one AZ to another AZ
 * If you suspend AddToLoadBalancer, Auto Scaling launches the instances but does not add them to the load balancer or target group. If you resume the AddToLoadBalancer process, Auto Scaling resumes adding instances to the load balancer or target group when they are launched. However, Auto Scaling does not add the instances that were launched while this process was suspended. You must register those instances manually.
 
 * if any health check from EC2 or ELB or one of multiple ELB, ec2 should be replaced.
+
+## SSH connection on MAC
+```
+ADD YOUR PRIVATE KEY ON SSH AGENT: 
+ssh-add -K myPrivateKey.pem
+
+NOW CONNECT TO YOUR BASTION HOST/EC2 INSTANCE ON PUBLIC SUBNET: 
+
+ssh –A ec2-user@<bastion-IP-address or DNS-entry> ## ssh -A this will forward your mac ssh connection to your remote host. in this case, public instance session will get the same access of your mac. 
+```
