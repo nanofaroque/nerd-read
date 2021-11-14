@@ -43,3 +43,4 @@ https://www.youtube.com/watch?v=z07HTSzzp3o
 
 IPv6 Subnetting: 
 https://www.youtube.com/watch?v=UIGVPvxnCtk&t=460s&ab_channel=itfreetraining
+Online IPv6 subnet generator: http://www.gestioip.net/cgi-bin/subnet_calculator.cgi
