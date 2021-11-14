@@ -40,3 +40,6 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 ### VPC CIDR block
 ![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/vpc/Screen%20Shot%202021-03-31%20at%2012.44.46%20AM.png)
 https://www.youtube.com/watch?v=z07HTSzzp3o
+
+IPv6 Subnetting: 
+https://www.youtube.com/watch?v=UIGVPvxnCtk&t=460s&ab_channel=itfreetraining
