@@ -4,3 +4,4 @@
 
 ## Demystifying Paxos:
 * http://rystsov.info/2015/09/16/how-paxos-works.html
+* https://www.youtube.com/watch?v=d7nAGI_NZPk&ab_channel=GoogleTechTalks
