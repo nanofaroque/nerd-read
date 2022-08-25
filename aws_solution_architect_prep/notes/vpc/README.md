@@ -39,8 +39,10 @@ Layer 4-> the Transport layer will allow/deny traffic based on TCP/UPD and port 
 * You must also specify an Elastic IP address to associate with the NAT gateway when you create it. The Elastic IP address cannot be changed once you associate it with the NAT Gateway. After you've created a NAT gateway, you can not change it. 
 ### VPC CIDR block
 ![](https://github.com/nanofaroque/nerd-read/blob/master/aws_solution_architect_prep/notes/vpc/Screen%20Shot%202021-03-31%20at%2012.44.46%20AM.png)
+
 https://www.youtube.com/watch?v=z07HTSzzp3o
 
 IPv6 Subnetting: 
 https://www.youtube.com/watch?v=UIGVPvxnCtk&t=460s&ab_channel=itfreetraining
+
 Online IPv6 subnet generator: http://www.gestioip.net/cgi-bin/subnet_calculator.cgi
