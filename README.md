@@ -127,5 +127,5 @@ Explanation of partitions:
 ### Atomic operations in dynamodb
 * https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-transactions/
 
-### VPC Subnetting"
+### VPC Subnetting and CIDR
   https://www.davidc.net/sites/default/subnets/subnets.html
